@@ -124,6 +124,7 @@ var pJS = function(tag_id, params){
         }
       },
       mouse:{}
+      
     },
     retina_detect: false,
     fn: {
